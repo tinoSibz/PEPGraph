@@ -1,3 +1,5 @@
+# Local Setup
+.mise.toml
 # Python-generated files
 __pycache__/
 *.py[oc]
