@@ -1,0 +1,7 @@
+[project]
+name = "pepgraph"
+version = "0.1.0"
+description = "Network Analysis on Python Enhancement Proposals"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
